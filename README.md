@@ -16,4 +16,4 @@ Code Review:
 All contributions undergo a code review process.
 
 Licensing:
-Contirbutions are licensed.
+Contributions are licensed.
